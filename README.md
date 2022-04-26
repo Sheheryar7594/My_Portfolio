@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Sheheryar7594/sheheryar7594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sheheryar7594/Sheheryar7594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
