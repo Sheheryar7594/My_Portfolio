@@ -1,13 +1,13 @@
 <h1 align="center">Hi Mate, I'm Muhammad Sheheryaar</h1>
-<h3 align="center">A Front End Developer and E-commerce Websites Developer.</h3>
+<h3 align="center">A Front End Developer and E-commerce Websites Developer with 2 years of Experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheheryar7594&label=Profile%20views&color=0e75b6&style=flat" alt="sheheryar7594" /> </p>
+<p align="center" > <img width="200px"src="https://komarev.com/ghpvc/?username=sheheryar7594&label=Profile%20views&color=0e75b6&style=flat" alt="sheheryar7594" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheheryar7594" alt="sheheryar7594" /></a> </p>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="300px" src="https://github-profile-trophy.vercel.app/?username=sheheryar7594" alt="sheheryar7594" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sheheryaarf" target="blank"><img src="https://img.shields.io/twitter/follow/@sheheryaarf?logo=twitter&style=for-the-badge" alt="@sheheryaarf" /></a> </p>
+<p align="center"> <a href="https://twitter.com/@sheheryaarf" target="blank"><img width="200px" height="40px" border-radius="20px" src="https://img.shields.io/twitter/follow/@sheheryaarf?logo=twitter&style=for-the-badge" alt="@sheheryaarf" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+<p>- 🌱 I’m currently learning **React Native**</p>
 
 - 💬 Ask me about **HTML, CSS, Js, ReactJs**
 
