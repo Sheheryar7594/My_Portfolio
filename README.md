@@ -7,11 +7,16 @@
 
 <p align="center"> <a href="https://twitter.com/@sheheryaarf" target="blank"><img width="200px" height="40px" border-radius="20px" src="https://img.shields.io/twitter/follow/@sheheryaarf?logo=twitter&style=for-the-badge" alt="@sheheryaarf" /></a> </p>
 
-<p>- 🌱 I’m currently learning **React Native**</p>
 
-- 💬 Ask me about **HTML, CSS, Js, ReactJs**
 
-- 📫 How to reach me **sheheryaar639@gmail.com**
+<p align="center" ><b> Currently I'm deep leaning the... </b></p>
+<p align="center"><b>**𝐑𝐄𝐀𝐂𝐓 𝐍𝐀𝐓𝐈𝐕𝐄**</b></p>
+
+<p align="center" ><b> You can ask me anything related to... </b></p>
+<p align="center"><b>**𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐉𝐒, 𝐑𝐄𝐀𝐂𝐓𝐉𝐒**</b></p>
+
+<p align="center" ><b> Contact Me </b></p>
+<p align="center" color="blue"><b color="blue">**𝐬𝐡𝐞𝐡𝐞𝐫𝐲𝐚𝐚𝐫𝟔𝟑𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
